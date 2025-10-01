@@ -67,8 +67,6 @@ Product module & cart logic implemented
 
 Checkout basics set up
 
-Next Phase: integrate payment options (Stripe/PayPal) and expand order management features.
-
 🤝 Contributing
 
 This project is still evolving. Contributions, ideas, and suggestions are welcome!
