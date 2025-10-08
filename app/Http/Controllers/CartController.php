@@ -59,7 +59,7 @@ class CartController extends Controller
                 'name' => $product->name,
                 'price' => $product->price,
                 'quantity' => $request->quantity,
-                'image' => $product->image
+                'image' => asset('images/' . $product->image)
             ];
         }
 

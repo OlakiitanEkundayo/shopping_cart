@@ -169,6 +169,7 @@
                                     <select name="country" x-model="form.country" required
                                         class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
                                         <option value="">Select Country</option>
+                                        <option value="">Nigeria</option>
                                         <option value="US">United States</option>
                                         <option value="CA">Canada</option>
                                         <option value="UK">United Kingdom</option>
